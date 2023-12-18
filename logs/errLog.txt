@@ -1,0 +1,8 @@
+20231211	01:14:34	df190053-1b38-42f6-95e7-9608ef199824	Error: Not allowed by CORS
+20231217	18:33:34	ecacd2a8-95cd-423f-9de2-baa1bff9978d	ReferenceError: cookies is not defined
+20231217	19:46:34	3ba7f5e4-49b8-4062-bd1a-958e59d8d07a	ReferenceError: origin is not defined
+20231217	19:47:14	39711415-c5ac-4691-bae6-5703758eb93d	ReferenceError: origin is not defined
+20231217	19:49:30	995c3e14-0ecb-4e08-82d0-aeb520f1b092	ReferenceError: origin is not defined
+20231217	19:51:52	aa648fb2-b93a-4688-9a7c-13ae0cc75327	ReferenceError: origin is not defined
+20231217	21:46:04	672604a5-5d6e-4e55-96ed-cb0e95fb495b	ReferenceError: origin is not defined
+20231217	21:46:09	512fad90-c3ed-4290-b862-409ccc06a255	ReferenceError: origin is not defined
